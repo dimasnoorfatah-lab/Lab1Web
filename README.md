@@ -22,3 +22,6 @@ Lab1Web/
 ### 1. Persiapan dan Struktur Dasar HTML
 Pada tahap awal ini, kita menyiapkan teks editor (seperti Visual Studio Code), membuat folder kerja bernama `praktikum-1-html-dasar`, dan membuat file `index.html` dengan kerangka struktur dokumen HTML5 standar yang mencakup deklarasi `<!DOCTYPE html>`, tag `<html>`, `<head>`, `<title>`, dan `<body>`.
 
+<img width="1350" height="302" alt="Image" src="https://github.com/user-attachments/assets/d401093e-ced1-41bc-a602-f532591ac448" />
+
+<img width="1917" height="1036" alt="Image" src="https://github.com/user-attachments/assets/e568c122-d584-4e77-9cb3-ac2420f067ab" />
