@@ -25,3 +25,6 @@ Pada tahap awal ini, kita menyiapkan teks editor (seperti Visual Studio Code), m
 <img width="1350" height="302" alt="Image" src="https://github.com/user-attachments/assets/d401093e-ced1-41bc-a602-f532591ac448" />
 
 <img width="1917" height="1036" alt="Image" src="https://github.com/user-attachments/assets/e568c122-d584-4e77-9cb3-ac2420f067ab" />
+
+### 2. Membuat Paragraf
+Menambahkan beberapa teks paragraf menggunakan tag `<p>` ke dalam dokumen HTML untuk menampilkan konten teks artikel atau informasi pada halaman web.
