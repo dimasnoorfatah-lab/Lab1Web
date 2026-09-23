@@ -1,4 +1,4 @@
-#praktikum 1: HTML Dasar - pemograman Web
+# praktikum 1: HTML Dasar - pemograman Web
 
 Repository ini dibuat untuk menyelesaikan tugas Praktikum 1 Pemrograman Web di Universitas Pelita Bangsa.
 
