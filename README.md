@@ -56,3 +56,12 @@ Menambahkan gambar ke dalam halaman web menggunakan tag `<img>` dengan atribut `
 
 ### 6. Menambahkan Hyperlink
 Membuat tautan atau hyperlink menggunakan tag `<a>` dengan atribut `href` untuk menghubungkan halaman web internal (misalnya `halaman2.html`) maupun tautan eksternal ke website lain.
+
+<img width="670" height="195" alt="Image" src="https://github.com/user-attachments/assets/8501d492-817d-44c9-9c26-e0a226fc8200" />
+
+<img width="1920" height="1032" alt="Image" src="https://github.com/user-attachments/assets/b93ca4a0-f225-4b44-9b50-99593174ea31" />
+
+### 8. Menambahkan List
+Membuat daftar item menggunakan *unordered list* (`<ul>`) untuk daftar tanpa nomor dan *ordered list* (`<ol>`) untuk daftar berurutan.
+
+
