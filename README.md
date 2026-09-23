@@ -43,4 +43,6 @@ Menambahkan elemen heading dari level `<h1>` hingga `<h6>` untuk membuat judul u
 ### 4. Memformat Teks
 Menerapkan berbagai tag pemformatan teks untuk memberikan gaya khusus, seperti teks tebal (`<b>`, `<strong>`), teks miring (`<i>`, `<em>`), penanda (`<mark>`), serta subscript dan superscript (`<sub>`, `<sup>`).
 
+<img width="980" height="292" alt="Image" src="https://github.com/user-attachments/assets/2dc0087f-f700-4200-8f85-30bba1a4592a" />
 
+<img width="556" height="192" alt="Image" src="https://github.com/user-attachments/assets/4d2db145-d4b8-498f-bb86-2047bfc5e1f3" />
