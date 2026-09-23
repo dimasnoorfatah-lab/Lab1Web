@@ -50,4 +50,6 @@ Menerapkan berbagai tag pemformatan teks untuk memberikan gaya khusus, seperti t
 ### 6. Menyisipkan Gambar
 Menambahkan gambar ke dalam halaman web menggunakan tag `<img>` dengan atribut `src` untuk menentukan lokasi file gambar di dalam folder `images/`, serta atribut `alt` dan `title` untuk deskripsi gambar.
 
+<img width="507" height="162" alt="Image" src="https://github.com/user-attachments/assets/33cfcbdd-25e4-4d6d-9ccc-fd78a55276ae" />
 
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/304eb04d-0b7f-4b7f-8bc0-4355dda7a18a" />
