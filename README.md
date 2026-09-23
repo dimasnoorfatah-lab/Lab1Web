@@ -78,7 +78,11 @@ Menambahkan catatan atau dokumentasi internal dalam kode HTML menggunakan tag ko
 ### 9. Menggabungkan Semua Elemen
 Menggabungkan seluruh elemen HTML yang telah dipelajari sebelumnya—mulai dari struktur dasar, navigasi, heading, paragraf, gambar, pemformatan teks, list, hingga komentar—menjadi satu halaman web profil mahasiswa yang utuh.
 
+<img width="681" height="913" alt="Image" src="https://github.com/user-attachments/assets/ec979bca-8c9b-4587-a945-8eb8b17f51c5" />
 
+<img width="377" height="297" alt="Image" src="https://github.com/user-attachments/assets/d3e1ab77-d6e8-477e-b8f6-bf736db1b6d4" />
+
+<img width="1920" height="1032" alt="Image" src="https://github.com/user-attachments/assets/4cdd3cc4-3ba3-481e-8abc-dec98c40cac4" />
 
 
 
