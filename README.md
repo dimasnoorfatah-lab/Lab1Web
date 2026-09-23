@@ -61,7 +61,20 @@ Membuat tautan atau hyperlink menggunakan tag `<a>` dengan atribut `href` untuk 
 
 <img width="1920" height="1032" alt="Image" src="https://github.com/user-attachments/assets/b93ca4a0-f225-4b44-9b50-99593174ea31" />
 
-### 8. Menambahkan List
+### 7. Menambahkan List
 Membuat daftar item menggunakan *unordered list* (`<ul>`) untuk daftar tanpa nomor dan *ordered list* (`<ol>`) untuk daftar berurutan.
+
+<img width="456" height="319" alt="Image" src="https://github.com/user-attachments/assets/2a254866-9d4e-472e-8a9d-c0dac026f9e6" />
+
+<img width="1920" height="1032" alt="Image" src="https://github.com/user-attachments/assets/515af4e5-dc35-4bbb-9640-e880a807cf01" />
+
+### 8. Menambahkan Komentar
+Menambahkan catatan atau dokumentasi internal dalam kode HTML menggunakan tag komentar `<!-- Komentar -->` agar diabaikan oleh browser dan tidak tampil di halaman web.
+
+
+
+
+
+
 
 
