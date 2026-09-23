@@ -32,3 +32,8 @@ Menambahkan beberapa teks paragraf menggunakan tag `<p>` ke dalam dokumen HTML u
 <img width="813" height="300" alt="Image" src="https://github.com/user-attachments/assets/093ad7af-2aac-48d0-98c0-5e24f7a3a945" />
 
 <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/95f5e84d-e828-4dda-8cb9-4d42b2d2b6ae" />
+
+### 3. Menambahkan Judul (Heading)
+Menambahkan elemen heading dari level `<h1>` hingga `<h6>` untuk membuat judul utama dan subjudul guna memberikan hierarki pada konten halaman web.
+
+
