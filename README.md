@@ -71,6 +71,13 @@ Membuat daftar item menggunakan *unordered list* (`<ul>`) untuk daftar tanpa nom
 ### 8. Menambahkan Komentar
 Menambahkan catatan atau dokumentasi internal dalam kode HTML menggunakan tag komentar `<!-- Komentar -->` agar diabaikan oleh browser dan tidak tampil di halaman web.
 
+<img width="401" height="231" alt="Image" src="https://github.com/user-attachments/assets/b0b57432-c1d4-4b51-a8a5-305db49e0b1b" />
+
+<img width="1916" height="1078" alt="Image" src="https://github.com/user-attachments/assets/8cc5f1f7-86fa-4a29-be3a-df20df4a1436" />
+
+### 9. Menggabungkan Semua Elemen
+Menggabungkan seluruh elemen HTML yang telah dipelajari sebelumnya—mulai dari struktur dasar, navigasi, heading, paragraf, gambar, pemformatan teks, list, hingga komentar—menjadi satu halaman web profil mahasiswa yang utuh.
+
 
 
 
